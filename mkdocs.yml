@@ -1,0 +1,17 @@
+site_name: My LinkTree
+
+
+theme:
+  name: 'material'
+  logo: 'images/http.png'
+  palette:
+    primary: 'blue grey'
+    accent: 'deep orange'
+
+plugins:
+    - search
+    - markdownextradata: {}
+
+
+nav:
+    - Links: index.md
