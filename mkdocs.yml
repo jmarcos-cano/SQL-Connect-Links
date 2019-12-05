@@ -1,5 +1,12 @@
 site_name: My LinkTree
 
+site_author: 'Marcos Cano'
+
+site_description: 'A LinkTree like to share my links'
+
+
+repo_url: https://gitlab.com/jmarcos.cano/sql.connect-2019
+site_url: https://jmarcos-cano.github.io/SQL-Connect-Links/
 
 theme:
   name: 'material'
@@ -7,6 +14,9 @@ theme:
   palette:
     primary: 'blue grey'
     accent: 'deep orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
 
 plugins:
     - search
@@ -15,3 +25,17 @@ plugins:
 
 nav:
     - Links: index.md
+
+footer:
+    - hello
+
+extra:
+    social:
+    - type: 'github'
+      link: 'https://gitlab.com/jmarcos.cano/sql.connect-2019'
+    - type: 'twitter'
+      link: 'https://twitter.com/Marcos_Kno'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/marcos-cano-804a1787/'
+
+copyright: 'Copyright &copy; 2019 -  Marcos Cano'

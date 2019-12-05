@@ -5,8 +5,11 @@
 
 
 
-### [ <img src="images/git.png" width="40">   Git Repo](https://gitlab.com/jmarcos.cano/- sql.connect-2019)
+### [ <img src="images/git.png" width="40">   Git Repo](https://gitlab.com/jmarcos.cano/sql.connect-2019)
 
 ### [ <img src="images/docs.png" width="40">   Flyway Docs](https://flywaydb.org/documentation/migrations)
 
 ### [ <img src="images/docker.png" width="40">   Docker Get Started](https://www.docker.com/get-started)
+
+
+
